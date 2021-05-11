@@ -1,6 +1,8 @@
 # pandas-challenge
 *Data analysis using Python Pandas and Jupyter.*
 
+###### ** Note: The .map formatting in the outputs appears correctly in Jupyter Notebook, but does not look right when opened through github. **
+
 ## Conclusions
 
 1. The average purchase price is just over $3, but the most popular item, both in terms of purchase count and total earnings, costs $4.61. This shows that players will spend money on maybe one cheap item, of which there are many, or can be funneled in to a few, better, more expensive items. Of the top five sellers as far as revenue, not one of the items is under $4. I would reduce the number of items available and create fewer, slightly more expensive, but more useful items instead, similar to the top five revenue items.
